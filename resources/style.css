@@ -111,6 +111,10 @@ header {
     border-radius: 15px;
 }
 
+#imagecontainer img {
+    height: auto;
+}
+
 footer {
     background-color: #497174;
     border: 1px solid #222;
